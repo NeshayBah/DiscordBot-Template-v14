@@ -1,0 +1,7 @@
+{
+    "token": "Bots Token",
+    "clientId": "Bots Client ID",
+	"guildId": "Your Main Server",
+    "ownersId": ["All Owner", "ID's"],
+    "global": false
+}

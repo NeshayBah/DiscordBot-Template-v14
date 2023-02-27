@@ -1,0 +1,27 @@
+{
+  "name": "discordbot-template-v14",
+  "version": "1.0.0",
+  "description": "A Discord Bot template made with Discord.js V14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeshayBah/DiscordBot-Template-v14.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discordbot",
+    "discord"
+  ],
+  "author": "NeshayBah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeshayBah/DiscordBot-Template-v14/issues"
+  },
+  "homepage": "https://github.com/NeshayBah/DiscordBot-Template-v14#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
